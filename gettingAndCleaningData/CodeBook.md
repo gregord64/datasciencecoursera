@@ -1,4 +1,4 @@
-This section is for the initial script getCourseProjectData.R
+## This section is for the initial script getCourseProjectData.R
 
 Set the working directory          
 setwd("c:/R_Programming/gettingAndCleaningData")
@@ -35,7 +35,7 @@ download(url,dest="dataset.zip" mode = "wb")
 unzip ("courseProjectDataset.zip")
 
 
-This section is for the primary script run_analysis.R
+## This section is for the primary script run_analysis.R
 
 
 Set the working directory          

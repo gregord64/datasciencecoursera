@@ -3,11 +3,11 @@ This document briefly defines the acquisition and analysis of data for the cours
 The data is acquired by executing getCourseProjectData.R
 Executing this file will go to the target site and download the required data. The data is currently compressed and the final action of the script is to "unzip" the file.
 
-This action will create the directory necessary for the second step.
+This action will create the directory and all content necessary for the analysis.
 
 The primary script is run_analysis.R. Addtional descriptions of the actions of the script can also be found in the CodeBook.
 
-The sript follows the requirements of the assignment as provided below
+The script follows the requirements of the assignment as provided below
 
 - Merge the datasets
 - Extract only the required data
