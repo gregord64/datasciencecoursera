@@ -1,6 +1,6 @@
 ## This section is for the initial script getCourseProjectData.R
 
-Set the working directory          
+# Set the working directory          
 setwd("c:/R_Programming/gettingAndCleaningData")
 
 Load required libraries            
